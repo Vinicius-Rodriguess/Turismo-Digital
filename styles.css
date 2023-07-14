@@ -133,9 +133,10 @@ header p {
     margin-bottom: 20px;
 }
 
-#imgg {
+.imgg {
     height: 10rem;
-    margin: 0 auto;
+    width: 10rem;
+    margin: 3px auto;
 }
 
 #contato {
